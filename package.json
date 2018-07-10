@@ -1,6 +1,6 @@
 {
   "name": "px2scalability-loader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "loader-utils": "^1.1.0",
-    "px2scalability": "^0.1.0"
+    "px2scalability": "^0.1.1"
   },
   "devDependencies": {
     "jest": "^23.3.0"
